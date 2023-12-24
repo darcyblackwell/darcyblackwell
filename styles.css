@@ -56,3 +56,33 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+/* Additional CSS for improved styling */
+
+/* Project section */
+#projects {
+  background: #f4f4f4;
+  padding: 50px 0;
+}
+
+.project {
+  margin-bottom: 40px;
+}
+
+.project img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project h3 {
+  margin-top: 15px;
+  font-size: 24px;
+}
+
+.project p {
+  color: #666;
+  line-height: 1.6;
+}
+
