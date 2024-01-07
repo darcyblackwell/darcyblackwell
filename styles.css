@@ -14,13 +14,13 @@ h3	{
 }
 p {
 	font-family: 'Playfair Display', serif;
-	border: 2px solid powderblue;
 	padding: 30px;
 	margin: 50px;
 }
 *   {
 	text-align: center;
   	color: grey;
+	border: 2px solid powderblue;
 	padding: 12px;
   	font-family: 'Playfair Display', serif;
 }
