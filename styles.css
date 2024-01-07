@@ -1,15 +1,26 @@
 body {
+	background-image: url('https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg');
+  	background-size: cover;
 	background-color: powderblue;
 	margin: 50px;
 }
 h1 {
-	color: blue;
-	font-family: verdana;
+	color: grey;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 300%;
+}
+h3	{
+  color: grey;
+  font-family: 'Roboto Flex', sans-serif;
 }
 p {
 	color: black;
+	font-family: 'Verdana';
 	border: 2px solid powderblue;
 	padding: 30px;
 	margin: 50px;
+}
+*   {
+  color: black;
+  font-family: 'Roboto', sans-serif;
 }
