@@ -10,11 +10,9 @@ h1 {
 	font-size: 300%;
 }
 h3	{
-  	color: grey;
   	font-family: 'Roboto Flex', sans-serif;
 }
 p {
-	color: black;
 	font-family: 'Verdana';
 	border: 2px solid powderblue;
 	padding: 30px;
