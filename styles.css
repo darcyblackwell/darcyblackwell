@@ -20,6 +20,7 @@ p {
 }
 *   {
 	text-align: center;
-  	color: black;
+  	color: grey;
+	padding: 12px;
   	font-family: 'Roboto', sans-serif;
 }
