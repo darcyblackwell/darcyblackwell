@@ -3,7 +3,12 @@ body {
 }
 h1 {
 	color: blue;
+	font-family: verdana;
+	font-size: 300%;
 }
 p {
 	color: black;
+	border: 2px solid powderblue;
+	padding: 30px;
+	margin: 50px;
 }
