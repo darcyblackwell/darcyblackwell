@@ -2,6 +2,7 @@ body {
 	background-image: url('https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg');
   	background-size: cover;
 	background-color: ghostwhite;
+	border: 2px solid black;
 	margin: 50px;
 }
 h1 {
@@ -20,7 +21,6 @@ p {
 *   {
 	text-align: center;
   	color: grey;
-	border: 2px solid black;
 	padding: 12px;
   	font-family: 'Playfair Display', serif;
 }
