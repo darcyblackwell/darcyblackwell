@@ -10,8 +10,8 @@ h1 {
 	font-size: 300%;
 }
 h3	{
-  color: grey;
-  font-family: 'Roboto Flex', sans-serif;
+  	color: grey;
+  	font-family: 'Roboto Flex', sans-serif;
 }
 p {
 	color: black;
@@ -21,6 +21,7 @@ p {
 	margin: 50px;
 }
 *   {
-  color: black;
-  font-family: 'Roboto', sans-serif;
+	text-align: center;
+  	color: black;
+  	font-family: 'Roboto', sans-serif;
 }
